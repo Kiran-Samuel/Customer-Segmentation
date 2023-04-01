@@ -1,0 +1,7 @@
+2023-04-01 13-13-33 - INFO - Dataset loaded
+2023-04-01 13-13-39 - INFO - Removed Outliers
+2023-04-01 13-13-48 - INFO - Performed Standardization
+2023-04-01 13-13-49 - INFO - Peformed elbow method to find number of clusters
+2023-04-01 13-13-49 - INFO - Peformed Silhouette score method to find number of clusters
+2023-04-01 13-13-49 - INFO - Applied clusters to K-means model
+2023-04-01 13-13-50 - INFO - Saved the scaling model and clustering model
